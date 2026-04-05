@@ -1,0 +1,6 @@
+bls-bot/
+│
+├── bot.py
+└── .github/
+    └── workflows/
+        └── bot.yml
